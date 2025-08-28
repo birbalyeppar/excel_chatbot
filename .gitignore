@@ -19,3 +19,4 @@ excel_venv/
 # System files
 .DS_Store
 Thumbs.db
+.streamlit/
